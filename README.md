@@ -1,2 +1,3 @@
 # Hello-World
-Testing this out
+
+So there I was; standing in line at the bank...
